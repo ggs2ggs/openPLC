@@ -14,7 +14,7 @@ OpenPLC Editor is a software that lets you write PLC programs for the OpenPLC ru
             <div class="download-link">
                 <a href="https://drive.google.com/file/d/18dQI62OeftfFgI1IjjyqolICLKZWYEfy/view?usp=sharing">
                     <img src="/assets/img/download.png" alt=""/>
-                    <span>OpenPLC Editor v1.0 for Windows</span>
+                    <span>OpenPLC Editor v1.3 for Windows</span>
                 </a>
             </div>
         </div>
