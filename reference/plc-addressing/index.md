@@ -3,6 +3,9 @@ layout: inset
 title: PLC Addressing
 --- 
 
+## Archived Website
+The information on this website is outdated. It is kept in here for historical purposes only. Please refer to [https://autonomylogic.com](https://autonomylogic.com) for the most up to date information about the OpenPLC Project.
+
 PLC applications normally (or always) interact with the external world
 through one or more communication protocols. When designing your PLC
 application, you decide which variables are available for use by communication
