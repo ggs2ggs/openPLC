@@ -5,6 +5,9 @@ redirect_from:
   - /getting-started-windows
 ---
 
+## Archived Website
+The information on this website is outdated. It is kept in here for historical purposes only. Please refer to [https://autonomylogic.com](https://autonomylogic.com) for the most up to date information about the OpenPLC Project.
+
 Installing OpenPLC on Windows is as easy as it can get! Just download the
 installer and run it. Please make sure you have a reliable connection to the
 internet while running the installer as it downloads the latest packages from
