@@ -5,6 +5,9 @@ redirect_from:
   - /getting-started-arduino
 ---
 
+## Archived Website
+The information on this website is outdated. It is kept in here for historical purposes only. Please refer to [https://autonomylogic.com](https://autonomylogic.com) for the most up to date information about the OpenPLC Project.
+
 You can attach Arduino boards as slave devices to expand the number of your
 I/O points. This is particularly useful for systems that don't have any I/O
 points at all (in case of OpenPLC running on Windows for example).
