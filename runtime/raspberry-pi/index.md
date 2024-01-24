@@ -5,6 +5,9 @@ redirect_from:
   - /getting-started-rpi
 ---
 
+## Archived Website
+The information on this website is outdated. It is kept in here for historical purposes only. Please refer to [https://autonomylogic.com](https://autonomylogic.com) for the most up to date information about the OpenPLC Project.
+
 Make sure that your Raspberry Pi is running a recent version of the Raspbian
 operating system. To avoid compatibility problems, it is better to download
 the most recent Raspbian form the
