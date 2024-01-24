@@ -5,6 +5,9 @@ redirect_from:
   - /scada
 --- 
 
+## Archived Website
+The information on this website is outdated. It is kept in here for historical purposes only. Please refer to [https://autonomylogic.com](https://autonomylogic.com) for the most up to date information about the OpenPLC Project.
+
 OpenPLC uses the Modbus/TCP protocol for SCADA communication. Modbus is one of
 the most used protocols in industry, is open source and royalty-free. This
 makes OpenPLC compatible with virtually any SCADA software in existence.
