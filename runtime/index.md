@@ -4,6 +4,9 @@ title: OpenPLC Runtime
 nav: start 
 ---
 
+## Archived Website
+The information on this website is outdated. It is kept in here for historical purposes only. Please refer to [https://autonomylogic.com](https://autonomylogic.com) for the most up to date information about the OpenPLC Project.
+
 The OpenPLC Runtime must be installed on your device for it to be able to
 execute PLC programs. The OpenPLC Runtime supports several embedded system
 platforms, and can also be installed on Windows and Linux machines as a
