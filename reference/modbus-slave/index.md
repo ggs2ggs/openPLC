@@ -5,6 +5,9 @@ redirect_from:
   - /scada
 --- 
 
+## Archived Website
+The information on this website is outdated. It is kept in here for historical purposes only. Please refer to [https://autonomylogic.com](https://autonomylogic.com) for the most up to date information about the OpenPLC Project.
+
 OpenPLC can be configured as a Modbus slave (server). A Modbus slave is
 normally controlled by a master, and performs local measurement and control.
 The remote master initiates read and write requests to the OpenPLC slave.
