@@ -3,6 +3,9 @@ layout: landing
 title: The OpenPLC Project
 ---
 
+## Archived Website
+The information on this website is outdated. It is kept in here for historical purposes only. Please refer to https://autonomylogic.com for the most up to date information about the OpenPLC Project.
+
 {% include carousel.html height="50" unit="%" duration="7" %}
 
 ## Designed to be Open Source
