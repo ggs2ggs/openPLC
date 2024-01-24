@@ -3,6 +3,9 @@ layout: inset-dev
 title: Configuration
 --- 
 
+## Archived Website
+The information on this website is outdated. It is kept in here for historical purposes only. Please refer to [https://autonomylogic.com](https://autonomylogic.com) for the most up to date information about the OpenPLC Project.
+
 Many configuration capabilities for OpenPLC are available through the web
 interface. However, some capabilities can only be configured through a
 configuration file that the OpenPLC runtime reads on startup. This section
