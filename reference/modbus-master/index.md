@@ -13,7 +13,7 @@ multiple Modbus slaves.
 
 ## Configuring Modbus Master
 
-To use OpenPLC as a DNP3 outstation, you must:
+To use OpenPLC as a Modbus Master, you must:
 
 * define PLC addresses in the supported range
 * define the bound offset and number PLC addresses to bind
